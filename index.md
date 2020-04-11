@@ -2,7 +2,7 @@
 
 hi! i'm a student, urbanist and designer floating between chicago, philadelphia, and lexington, ky. i am looking for employment opportunities in the arts, sustainability, and community economic development. ideas for artistic/academic collaborations are welcome as well.
 
-i can be reached via [email](pwojcik606@gmail.com) or [twitter](https://twitter.com/pioioiotr), and i'm also on [linkedin](https://www.linkedin.com/in/piotr-wojcik-chicago/).
+i can be reached via [email](mailto:pwojcik606@gmail.com) or [twitter](https://twitter.com/pioioiotr), and i'm also on [linkedin](https://www.linkedin.com/in/piotr-wojcik-chicago/).
 
 #### education
 - [ ] former b.arch student (illinois institute of technology)
