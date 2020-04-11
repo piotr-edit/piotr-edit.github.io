@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: piotr wojcik
 description: critical geographer in training
+github:
+  is_project_page: false
