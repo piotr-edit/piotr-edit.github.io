@@ -1,7 +1,7 @@
 ---
-title: /references
+title: /about
 layout: page
-permalink: /refs
+permalink: /about
 ---
 
 #### please contact me for references from:
