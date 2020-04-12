@@ -1,7 +1,7 @@
 ---
-title: /works
+title: /work
 layout: page
-permalink: /works
+permalink: /work
 ---
 
 ### portfolio coming soon...
