@@ -7,8 +7,11 @@ permalink: /
 <img src="/headshot-negative.jpg" width="196">
 
 <p></p>
+
 **hi!** my name is piotr (the polish version of peter) and i'm an urbanist, designer, and critical geography student working between chicago, philadelphia, and lexington, ky. i am looking for employment opportunities in the arts, sustainability sector, and community economic development sphere. i also welcome ideas for artistic/academic collaborations.
+
 <p></p>
+
 please reach out via [email](mailto:pwojcik606@gmail.com) or [twitter](https://twitter.com/pioioiotr).
 i'm also on [linkedin](https://www.linkedin.com/in/piotr-wojcik-chicago/).
 
