@@ -1,6 +1,8 @@
 remote_theme: b2a3e8/jekyll-theme-console
+
 header_pages:
   - index.md
   - about.md
   - work.md
-footer: 'please reach out via [email](mailto:pwojcik606@gmail.com) or [twitter](https://twitter.com/pioioiotr). i'm also on [linkedin](https://www.linkedin.com/in/piotr-wojcik-chicago/).'
+  
+footer: 'please reach out via <a href="mailto:pwojcik606@gmail.com">email</a> or <a href="https://twitter.com/pioioiotr">twitter</a>. i'm also on <a href="https://www.linkedin.com/in/piotr-wojcik-chicago">linkedin</a>.'
