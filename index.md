@@ -1,3 +1,8 @@
+---
+title: piotr wojcik
+layout: home
+permalink: /
+---
 <!-- <img src="/bridge.JPG" width="256"> -->
 <img src="/headshot-negative.jpg" width="196">
 
