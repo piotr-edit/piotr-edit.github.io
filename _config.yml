@@ -1,6 +1,7 @@
 remote_theme: b2a3e8/jekyll-theme-console
 header_pages:
   - index.md
-  - about.md
+  - work.md
+  - refs.md
 title: piotr wojcik
 description: chicago / philadelphia / lexington
