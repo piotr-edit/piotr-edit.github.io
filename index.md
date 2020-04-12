@@ -1,5 +1,5 @@
-<!-- <img src="/bridge.JPG" width="256"> -->                                              
-
+<img src="/bridge.JPG" width="256">                                           
+<!--
 <pre align="center">
                  /(#.,                      
              /(/(&@@@@&@%%(                 
@@ -21,6 +21,7 @@
  ,((#((####((#(#(###(((##(#(#(((((((#(#%###(
  
 </pre>
+-->
 
 **hi!** my name is piotr (the polish version of peter) and i'm an urbanist, designer, and critical geography student. i am looking for employment opportunities in the arts, sustainability, and community economic development. ideas for artistic/academic collaborations are always welcome.
 
