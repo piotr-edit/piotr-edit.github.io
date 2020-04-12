@@ -4,7 +4,7 @@ layout: page
 permalink: /refs
 ---
 
-#### reach out to me for references from:
+#### please contact me for references from:
 - [data refuge](https://www.datarefuge.org/)
 - [the heidelberg project](https://www.heidelberg.org/)
 - [philadelphia orchard project](https://www.phillyorchards.org/)
