@@ -8,11 +8,11 @@ permalink: /
 <img src="/flora-neg.jpg" width="312">
 <br/>
 **hi!** my name is piotr (the polish version of peter) and i'm an urbanist, designer, and critical geography student working between chicago, philadelphia, and lexington, ky.
-
-<p>✿ ✿ ✿</p>
-
+<br/>
+✿ ✿ ✿ ✿ ✿
+<br/>
 i am looking for employment opportunities in the cultural, sustainability, and community economic development sector(s).
-
-<p>✿ ✿ ✿</p>
-
+<br/>
+✿ ✿ ✿ ✿ ✿
+<br/>
 i also welcome ideas for artistic/academic collaborations.
