@@ -13,12 +13,12 @@ permalink: /about
 - maps, cartography, gis
 - data: big, small, open, closed, human, machine...
 - city planning, public/private landscapes, real estate, enclosure, value
-- urban agriculture, political ecology
+- urban agriculture & political ecology
 - community arts & cultural production
-- marxism and social justice
+- feminism, marxism, scholar-activism
 
 ### please contact me for references from:
-- [data refuge](https://www.datarefuge.org/)
+- [data refuge](https://www.datarefuge.org/)/[penn program in environmental humanities](https://ppeh.sas.upenn.edu/)
 - [the heidelberg project](https://www.heidelberg.org/)
 - [philadelphia orchard project](https://www.phillyorchards.org/)
 - [shahi exports](https://www.shahi.co.in/)
