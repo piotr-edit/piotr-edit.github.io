@@ -11,7 +11,7 @@ permalink: /
 <br/>
 ✿ ✿ ✿ ✿ ✿
 <br/>
-i am looking for employment opportunities in the cultural, sustainability, and community economic development sector(s).
+i am looking for employment opportunities in the broadly defined cultural, sustainability, and community economic development sector(s).
 <br/>
 ✿ ✿ ✿ ✿ ✿
 <br/>
