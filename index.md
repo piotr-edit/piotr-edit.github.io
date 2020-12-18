@@ -15,4 +15,4 @@ i am looking for employment opportunities in the cultural, sustainability, and c
 <br/>
 ✿ ✿ ✿ ✿ ✿
 <br/>
-i also welcome ideas for artistic/academic collaborations.
+i also welcome ideas for artistic/academic collaborations. recently into: horses.
