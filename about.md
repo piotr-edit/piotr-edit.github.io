@@ -13,9 +13,9 @@ permalink: /about
 - maps, cartography, gis
 - data: big, small, open, closed, human, machine...
 - city planning, public/private landscapes, real estate, enclosure, value
-- urban agriculture & political ecology
+- urban/rural interplays, agriculature + urban development, political ecology
 - community arts & cultural production
-- feminism, marxism, scholar-activism
+- black feminism, postcapitalism/diverse economies, scholar-activism
 
 ### please contact me for references from:
 - [data refuge](https://www.datarefuge.org/)/[penn program in environmental humanities](https://ppeh.sas.upenn.edu/)
