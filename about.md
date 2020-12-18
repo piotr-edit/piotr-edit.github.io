@@ -14,8 +14,8 @@ permalink: /about
 - data: big, small, open, closed, human, machine...
 - city planning, public/private landscapes, real estate, enclosure, value
 - urban/rural interplays, agriculature + urban development, political ecology
-- community arts & cultural production
 - black feminism, postcapitalism/diverse economies, scholar-activism
+- community arts & cultural production
 
 ### please contact me for references from:
 - [data refuge](https://www.datarefuge.org/)/[penn program in environmental humanities](https://ppeh.sas.upenn.edu/)
