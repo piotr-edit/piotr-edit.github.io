@@ -5,9 +5,9 @@ permalink: /about
 ---
 
 ### education:
-- illinois institute of technology - [b.arch](https://arch.iit.edu/) (incomplete)
-- university of pennsylvania - [b.a. urban studies](https://urban.sas.upenn.edu/) (2020)
 - university of kentucky - [m.a. geography](https://geography.as.uky.edu/) (expected 2022)
+- university of pennsylvania - [b.a. urban studies](https://urban.sas.upenn.edu/) (2020)
+- illinois institute of technology - [b.arch](https://arch.iit.edu/) (incomplete)
 
 ### interests:
 - maps, cartography, gis
