@@ -7,7 +7,8 @@ permalink: /
 <!-- <img src="/headshot-negative.jpg" width="196"> -->
 <img src="/flora-neg.jpg" width="312">
 <br/>
-**hi!** my name is piotr (the polish version of peter) and i'm an urbanist, designer, and critical geography student working between chicago, philadelphia, and lexington, ky.
+<font size="6">hi!</font><br/>
+my name is piotr (the polish version of peter) and i'm an urbanist, designer, and critical geography student working between chicago, philadelphia, and lexington, ky.
 <br/>
 ✿ ✿ ✿ ✿ ✿
 <br/>
