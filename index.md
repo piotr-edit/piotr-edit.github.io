@@ -14,5 +14,5 @@ i'm an urbanist, designer, and critical geography student working between chicag
 ✿ ✿ ✿ ✿ ✿
 <br/>
 i am looking for employment opportunities in the broadly defined cultural, sustainability, and community economic development sector(s).<br/>
-ideas for artistic/academic collaborations are also welcomed.<br/>
+ideas for artistic/academic collaborations are also welcomed!<br/>
 recently into: horses.
