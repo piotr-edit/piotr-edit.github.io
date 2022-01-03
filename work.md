@@ -5,9 +5,9 @@ permalink: /work
 ---
 currently, i am working on a project examining horseracing and housing during the new deal in lexington, ky, and what sorts of implications that could have for both industries today.
 
-before that, i wrote critically about the use of geographic information systems in philadelphia's planning agencies to manage "blight" and vacancy without addressing the root issue of unequal access to land tenure for low-income residents. you can read a bit about that project here: [protecting philadelphia's public gardens](https://omnia.sas.upenn.edu/story/protecting-philadelphia%E2%80%99s-urban-gardens) by katelyn silva.
+before that, i've written critically about the use of geographic information systems in philadelphia's planning agencies to manage "blight" and vacancy without addressing the root issue of unequal access to land tenure for low-income residents. you can read a tiny bit about that project here: [protecting philadelphia's public gardens](https://omnia.sas.upenn.edu/story/protecting-philadelphia%E2%80%99s-urban-gardens) by katelyn silva.
 
-this piece also includes a quote from me about my scholar-activist humanities work: [between critique and action](https://omnia.sas.upenn.edu/story/between-critique-and-action) by jane carroll.
+the following piece also includes a snippet about my scholar-activist humanities work in college: [between critique and action](https://omnia.sas.upenn.edu/story/between-critique-and-action) by jane carroll.
 
 ### portfolio coming soon...
 
