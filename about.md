@@ -16,10 +16,6 @@ permalink: /about
 - urban/rural interplays, agriculture + urban development, political ecology, diverse economies
 - community arts, cultural production, zines
 
-### press:
-may 20, 2020: [protecting philadelphia's public gardens](https://omnia.sas.upenn.edu/story/protecting-philadelphia%E2%80%99s-urban-gardens) by katelyn silva
-may 18, 2020: [between critique and action](https://omnia.sas.upenn.edu/story/between-critique-and-action) by jane carroll
-
 ### references from:
 - [data refuge](https://www.datarefuge.org/)/[penn program in environmental humanities](https://ppeh.sas.upenn.edu/)
 - [the heidelberg project](https://www.heidelberg.org/)
