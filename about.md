@@ -13,7 +13,7 @@ permalink: /about
 - maps, cartography, gis
 - data: big, small, open, closed, human, machine...
 - city planning, public/private landscapes, real estate, enclosure, value
-- urban/rural interplays, agriculture + urban development, political ecology, diverse economies
+- urban/rural interplays, agriculture/livestock + urban development, political ecology, diverse economies
 - community arts, cultural production, zines
 
 ### references from:
