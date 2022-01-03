@@ -16,4 +16,5 @@ i am looking for employment opportunities in the broadly defined cultural, susta
 ✿ ✿ ✿ ✿ ✿
 <br/>
 i also welcome ideas for artistic/academic collaborations.
+<br/>
 recently into: horses.
