@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 ### education:
-- university of kentucky - [m.a. geography](https://geography.as.uky.edu/) (expected aug 2022)
+- university of kentucky - [m.a. geography](https://geography.as.uky.edu/) + [cert. in public financial mgmt](https://martin.uky.edu/graduate-certificate-public-financial-management) (expected aug 2022)
 - university of pennsylvania - [b.a. urban studies](https://urban.sas.upenn.edu/) (2020)
 - illinois institute of technology - [b.arch](https://arch.iit.edu/) (incomplete)
 
