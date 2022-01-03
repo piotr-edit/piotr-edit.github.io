@@ -3,7 +3,11 @@ title: /work
 layout: page
 permalink: /work
 ---
-currently, i am working on a project examining horseracing and housing during the new deal in lexington, ky, and what sorts of implications that could have for both industries today. before this, i wrote about the relationship of gis and other digital software in planning agencies to the production/management of "blight" and vacancy in philadelphia.
+currently, i am working on a project examining horseracing and housing during the new deal in lexington, ky, and what sorts of implications that could have for both industries today.
+
+before this, i wrote about the relationship of gis and other digital software in planning agencies to the production/management of "blight" and vacancy in philadelphia. you can read a bit about that here: [protecting philadelphia's public gardens](https://omnia.sas.upenn.edu/story/protecting-philadelphia%E2%80%99s-urban-gardens) by katelyn silva.
+
+this piece also includes a quote from me about my scholar-activist humanities work: [between critique and action](https://omnia.sas.upenn.edu/story/between-critique-and-action) by jane carroll.
 
 ### portfolio coming soon...
 
