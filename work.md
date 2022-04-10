@@ -3,7 +3,7 @@ title: /work
 layout: page
 permalink: /work
 ---
-currently, i am working on a project examining horseracing and housing during the new deal in lexington, ky, and what sorts of implications that could have for both industries today.
+currently, i am working on a project examining horseracing and housing during the new deal in lexington, ky, and what sorts of implications that could have for both industries today. a scan of one of my zines on the topic is available [here](/tracks-traces-small.pdf).
 
 before that, i've written critically about the use of geographic information systems in philadelphia's planning agencies to manage "blight" and vacancy without addressing the root issue of unequal access to land tenure for low-income residents. you can read a tiny bit about that project here: [protecting philadelphia's public gardens](https://omnia.sas.upenn.edu/story/protecting-philadelphia%E2%80%99s-urban-gardens) by katelyn silva.
 
