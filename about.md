@@ -1,5 +1,5 @@
 ---
-title: piotr wojcik | about
+title: /about
 layout: page
 permalink: /about
 ---
