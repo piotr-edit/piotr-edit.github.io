@@ -1,17 +1,18 @@
 ---
-title: piotr wojcik
+title: Piotr Wojcik
 layout: home
 permalink: /
 ---
 
 <img src="/bike_midland.png" width="100%">
 <br/>
-<font size="6">hi!</font><br/>
-<font size="3">my name is piotr (the polish version of peter).</font><br/>
-i'm an urbanist, designer, and critical geographer working between chicago, philadelphia, and lexington, ky.
+# Hi! I'm Piotr
+##(the Polish version of Peter)
+<br/>
+I am a geographer, digital humanist, and designer working between Chicago and central Kentucky with strong ties to Philadelphia as well.
 <br/>
 ✿ ✿ ✿ ✿ ✿
 <br/>
-i am looking for employment opportunities in the broadly defined cultural, sustainability, and community economic development sector(s).<br/>
-ideas for artistic/academic collaborations are also welcomed!<br/>
-recently into: horses.
+Currently, I am looking for entry- to mid-level employment opportunities in research and project management, particularly in the cultural and planning sectors. You can read more about me [here](/about.md) and see some of my mapping, art, and design portfolio [here](portfolio.md). I also welcome inquiries for artistic or academic collaboration, so please feel free to reach out at pwojcik606 {at} gmail {dot} com.
+<br/>
+[Click here](horseshousing.md) to explore my most recent research project about horseracing and housing in New Deal Lexington, KY.
