@@ -9,7 +9,7 @@ permalink: /about
 - University of Pennsylvania - [BA Urban Studies](https://urban.sas.upenn.edu/) (May 2020)
 - Illinois Institute of Technology - [BArch](https://arch.iit.edu/) (did not finish)
 
-## Recent talks/exhihbitions:
+## Recent talks/exhibitions:
 - With Ric Kasini Kadour and Jessica O’Lear: "Sense of place: Collaging the world we live in" - [Kolaj Fest New Orleans](http://www.kolajmagazine.com/kolaj-fest-new-orleans.html) (Jun 2022)
 - “Horses, humans, and housing in Lexinton, KY between two Depressions” - [Equine History Conference](https://equinehistory.wpcomstaging.com) (Apr 2022)
 - “Beyond invasive/invader’s imports: Horses as subversive species and Indigenous co-conspirators” - [Dimensions of Political Ecology](http://www.politicalecology.org/) (Mar 2022)
