@@ -9,7 +9,7 @@ permalink: /
 <br/>
 <font size="6">hi!</font><br/>
 <font size="3">my name is piotr (the polish version of peter).</font><br/>
-i'm an urbanist, designer, and critical geography student working between chicago, philadelphia, and lexington, ky.
+i'm an urbanist, designer, and critical geographer working between chicago, philadelphia, and lexington, ky.
 <br/>
 ✿ ✿ ✿ ✿ ✿
 <br/>
