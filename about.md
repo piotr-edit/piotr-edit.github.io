@@ -1,27 +1,35 @@
 ---
-title: /about
+title: piotr wojcik | about
 layout: page
 permalink: /about
 ---
 
-### education:
-- university of kentucky - [m.a. geography](https://geography.as.uky.edu/) + [cert. in public financial mgmt](https://martin.uky.edu/graduate-certificate-public-financial-management) (expected aug 2022)
-- university of pennsylvania - [b.a. urban studies](https://urban.sas.upenn.edu/) (may 2020)
-- illinois institute of technology - [b.arch](https://arch.iit.edu/) (incomplete)
+## Education:
+- University of Kentucky - [MA Geography](https://geography.as.uky.edu/) + [Grad Certificate in Public Financial Mgmt.](https://martin.uky.edu/graduate-certificate-public-financial-management) (Aug 2022)
+- University of Pennsylvania - [BA Urban Studies](https://urban.sas.upenn.edu/) (May 2020)
+- Illinois Institute of Technology - [BArch](https://arch.iit.edu/) (did not finish)
 
-### interests:
-- maps, cartography, gis
-- data: big, small, open, closed, human, machine...
-- city planning, public/private landscapes, real estate, enclosure, value
-- urban/rural interplays, agriculture/livestock + urban development, political ecology, diverse economies
-- community arts, cultural production, zines
+## Recent talks/exhihbitions:
+- With Ric Kasini Kadour and Jessica O’Lear: "Sense of place: Collaging the world we live in" - [Kolaj Fest New Orleans](http://www.kolajmagazine.com/kolaj-fest-new-orleans.html) (Jun 2022)
+- “Horses, humans, and housing in Lexinton, KY between two Depressions” - [Equine History Conference](https://equinehistory.wpcomstaging.com) (Apr 2022)
+- “Beyond invasive/invader’s imports: Horses as subversive species and Indigenous co-conspirators” - [Dimensions of Political Ecology](http://www.politicalecology.org/) (Mar 2022)
+- “Tracks/traces: Entanglements of horseracing and housing in New Deal Lexington, KY” - [American Association of Geographers Annual Meeting](https://www.aag.org) (Feb 2022)
 
-### references from:
-- [data refuge](https://www.datarefuge.org/)/[penn program in environmental humanities](https://ppeh.sas.upenn.edu/)
-- [the heidelberg project](https://www.heidelberg.org/)
-- [philadelphia orchard project](https://www.phillyorchards.org/)
-- [shahi exports](https://www.shahi.co.in/)
-- [penn museum](https://www.penn.museum/)
-- [city clerk of chicago](https://www.chicityclerk.com/)
+## General interests:
+- Maps, cartography, GIS
+- Data: big, small, open, closed, human, machine...
+- Urban planning, public/private landscapes, development
+- Community arts, cultural production, zines
+- Horses, political ecology
+- Cycling
 
-### full cv available upon request.
+## References from:
+- [UK Dept. of Geography](https://geography.as.uky.edu/alumni)
+- [Data Refuge](https://www.datarefuge.org/)/[Penn Program in Environmental Humanities](https://ppeh.sas.upenn.edu/)
+- [The Heidelberg Project](https://www.heidelberg.org/)
+- [Philadelphia Orchard Project](https://www.phillyorchards.org/)
+- [Shahi Exports](https://www.shahi.co.in/)
+- [Penn Museum](https://www.penn.museum/)
+- [City Clerk of Chicago](https://www.chicityclerk.com/)
+
+### Full CV available upon request.
