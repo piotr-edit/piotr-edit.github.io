@@ -6,8 +6,8 @@ permalink: /
 
 <img src="/bike_midland.png" width="100%">
 <br/>
-# Hi! I'm Piotr
-##(the Polish version of Peter)
+# <font-size="16">Hi! I'm Piotr</font-size>
+## (the Polish version of Peter)
 <br/>
 I am a geographer, digital humanist, and designer working between Chicago and central Kentucky with strong ties to Philadelphia as well.
 <br/>
