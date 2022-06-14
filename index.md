@@ -3,9 +3,10 @@ title: piotr wojcik
 layout: home
 permalink: /
 ---
+
 <!-- <img src="/bridge.JPG" width="256"> -->
 <!-- <img src="/headshot-negative.jpg" width="196"> -->
-<img src="/flora-neg.jpg" width="312">
+<img src="/flora-neg.jpg" width="100%">
 <br/>
 <font size="6">hi!</font><br/>
 <font size="3">my name is piotr (the polish version of peter).</font><br/>
