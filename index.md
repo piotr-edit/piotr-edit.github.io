@@ -4,10 +4,10 @@ title: Piotr Wójcik
 
 # Profesjonalna korekta angielskiego
 
-- [Home](index.md)
-- [About](about.md)
-- [Pricing](pricing.md)
-- [Contact](contact.md)
-- [English](english.md)
+- [Strona główna](index.md)
+- [O mnie](omnie.md)
+- [Cennik](cennik.md)
+- [Kontakt](kontakt.md)
+- [English](index_en.md)
 
 ---
