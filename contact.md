@@ -7,10 +7,7 @@ title: Piotr Wojcik - contact
 
 <h3><div style="float: left">Professional English editing and proofreading services</div><div style="float: right"><a href="kontakt.html" title="Kliknij tutaj, aby zobaczyć wersję polską">🇵🇱</a></div><div style="clear: both;"></div></h3>
 
-- [Home](index_en.md)
-- [About](about.md)
-- [Pricing](pricing.md)
-- [Contact](contact.md)
+[Home](index_en.md)  /  [About](about.md)  /  [Pricing](pricing.md)  /  [Contact](contact.md)
 
 ---
 
