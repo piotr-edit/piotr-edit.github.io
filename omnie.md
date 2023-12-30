@@ -4,7 +4,7 @@ title: Piotr Wójcik - o mnie
 
 # Piotr Wójcik, English Editor
 ## Profesjonalna korekta angielskiego od native'a
-[Please click here for English.](index_en.md)
+[Please click here for English.](about.md)
 
 - [Strona główna](index.md)
 - [O mnie](omnie.md)
