@@ -19,3 +19,17 @@ a:visited {
   margin: 0 auto;
   padding: 0 25%;
 }
+
+.container table {
+  width: 100%;
+  background-color: #222;
+}
+
+.container table tr:nth-child(even) {
+  background-color: #F6F6F6;
+}
+
+.container table tr:hover {
+  background-color: #ffc300;
+  color: #222;
+}
