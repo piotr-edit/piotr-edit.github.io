@@ -71,3 +71,5 @@ Cześć! Jestem doświadczonym redaktorem tekstów w języku angielskim. Także 
   - Canva
 
 ---
+
+<div style="float: left">piotr \[kropka\] edit \{małpa\} gmail \[kropka\] com</div><div style="float: right">[LinkedIn](https://linkedin.com/in/pioioiotr)</div>

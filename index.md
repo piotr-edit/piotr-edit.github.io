@@ -10,3 +10,5 @@ title: Piotr Wójcik
 [Strona główna](index.md)  /  [O mnie](omnie.md)  /  [Cennik](cennik.md)  /  [Kontakt](kontakt.md)
 
 ---
+
+<div style="float: left">piotr \[kropka\] edit \{małpa\} gmail \[kropka\] com</div><div style="float: right">[LinkedIn](https://linkedin.com/in/pioioiotr)</div>

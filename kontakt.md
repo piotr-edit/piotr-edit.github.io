@@ -24,6 +24,6 @@ title: Piotr Wójcik - kontakt
 </form>
 <br>
 
-Zapraszam do kontaktu bezpośredniego przez maila: piotr \[kropka\] edit \{małpa\} gmail \[kropka\] com
+---
 
-[LinkedIn](https://pl.linkedin.com/in/pioioiotr)
+<div style="float: left">piotr \[kropka\] edit \{małpa\} gmail \[kropka\] com</div><div style="float: right">[LinkedIn](https://linkedin.com/in/pioioiotr)</div>

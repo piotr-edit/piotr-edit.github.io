@@ -40,3 +40,7 @@ title: Piotr Wójcik - cennik
 - Google Docs (link)
 - OpenDocument (.odf)
 - Inne: .txt, .rtf, .ppt, .pptx
+
+---
+
+<div style="float: left">piotr \[kropka\] edit \{małpa\} gmail \[kropka\] com</div><div style="float: right">[LinkedIn](https://linkedin.com/in/pioioiotr)</div>

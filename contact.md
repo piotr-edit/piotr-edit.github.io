@@ -24,6 +24,6 @@ title: Piotr Wojcik - contact
 </form>
 <br>
 
-You can also email inquiries to piotr \[dot\] edit \{at\} gmail \[dot\] com
+---
 
-[LinkedIn](https://linkedin.com/in/pioioiotr)
+<div style="float: left">piotr \[dot\] edit \{at\} gmail \[dot\] com</div><div style="float: right">[LinkedIn](https://linkedin.com/in/pioioiotr)</div>

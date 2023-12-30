@@ -71,3 +71,7 @@ Hi! I am a professional English editor based in Krakow, Poland. I am also intere
   - Adobe Creative Suite (Photoshop, Illustrator, InDesign)
   - GIMP
   - Canva
+
+  ---
+
+<div style="float: left">piotr \[dot\] edit \{at\} gmail \[dot\] com</div><div style="float: right">[LinkedIn](https://linkedin.com/in/pioioiotr)</div>

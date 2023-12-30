@@ -10,3 +10,5 @@ title: Piotr Wojcik
 [Home](index_en.md)  /  [About](about.md)  /  [Pricing](pricing.md)  /  [Contact](contact.md)
 
 ---
+
+<div style="float: left">piotr \[dot\] edit \{at\} gmail \[dot\] com</div><div style="float: right">[LinkedIn](https://linkedin.com/in/pioioiotr)</div>

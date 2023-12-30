@@ -40,3 +40,7 @@ title: Piotr Wojcik - pricing
 - Google Docs (link)
 - OpenDocument (.odf)
 - Other: .txt, .rtf, .ppt, .pptx
+
+---
+
+<div style="float: left">piotr \[dot\] edit \{at\} gmail \[dot\] com</div><div style="float: right">[LinkedIn](https://linkedin.com/in/pioioiotr)</div>
