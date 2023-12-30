@@ -26,6 +26,7 @@ title: Piotr Wójcik - cennik
 | + Głębsza redakcja stylistyczna | +100%            |
 | + Niespodziewane trudności (n.p.  niestandardowy format) | +10% |
 | + Realizacja ekspresowa         | Proszę o kontakt |
+
 <!--
 <table>
 <thead>
@@ -65,7 +66,7 @@ title: Piotr Wójcik - cennik
 
 **Uwaga:** 1 strona to około 500 słów. Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 3 dni biznesowych. Na wycenę dłuższych tekstów, zapraszam do [kontaktu](kontakt.md) bezspośredniego.
 
-Akceptowane formaty:
+#### Akceptowane formaty:
 - Word (.doc, .docx)
 - Google Docs (link)
 - OpenDocument (.odf)
