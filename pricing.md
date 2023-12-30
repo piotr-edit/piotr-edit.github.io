@@ -18,6 +18,7 @@ title: Piotr Wojcik - pricing
 
 ### English language editing (spelling, grammar, basic style)
 
+<!--
 | Service                         | Price            |
 |---------------------------------|------------------|
 | Short (up to 2500 words)        | 0.06 PLN/word    |
@@ -26,8 +27,16 @@ title: Piotr Wojcik - pricing
 | + Advanced style editing        | +100%            |
 | + Unforeseen issues (e.g., atypical format) | +10% |
 | + Express/priority service      | Please contact me |
+-->
+<div style="float: left"><strong>Service:</strong></div><div style="float: right"><strong>Price:</strong></div><br>
+<div style="float: left">Short text (up to 2500 words)</div><div style="float: right">0.06 PLN/word</div><br>
+<div style="float: left">Medium text (2501-5000 words)</div><div style="float: right">0.05 PLN/word</div><br>
+<div style="float: left">Long text (over 5000 words)</div><div style="float: right">0.04 PLN/word</div><br>
+<div style="float: left">+ Advanced style editing</div><div style="float: right">+100%</div><br>
+<div style="float: left">+ Unforeseen issues (e.g., non-standard format)</div><div style="float: right">+10%</div><br>
+<div style="float: left">+ Express/priority service</div><div style="float: right">Please contact me</div><div style="clear: both;"></div><br>
 
-**Uwaga:** 1 page is approximately 500 words. Turnaround time depends on the length and compleity of the text, but is generally doable within 3 days. For larger and more complex projects, please reach out [directly](contact.md) for a free quote.
+**Uwaga:** 1 page is approximately 500 words. Turnaround time depends on the length and compleity of the text but is generally within 3 days for basic language editing. For larger and more complex projects, please reach out [directly](contact.md) for a free quote.
 
 #### Accepted formats:
 - Word (.doc, .docx)
