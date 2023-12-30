@@ -15,6 +15,7 @@ title: Piotr Wójcik - cennik
 
 ## Cennik
 
-| Usługa    | Cena      |
-| ---       | ---       |
-| Za słowo  | 0.015 PLN |
+| Usługa    || Cena      |
+| ---       || ---       |
+| Korekta i podstawowa redakcja w j. angielskim | do 5 stron    | 15 zł/str |
+| ^                                             | 6+ stron      | 10 zł/str |
