@@ -25,6 +25,7 @@ title: Piotr Wójcik - kontakt
     <textarea name="message"></textarea><br>
   <button type="submit">Send</button>
 </form>
+<br>
 
 Zapraszam do kontaktu bezpośredniego przez maila: piotr \[kropka\] edit \{małpa\} gmail \[kropka\] com
 
