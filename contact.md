@@ -16,4 +16,5 @@ title: Piotr Wojcik - contact
 ## Contact
 
 Please email inquiries to piotr \[dot\] edit \[at\] gmail \[dot\] com
+
 [LinkedIn](https://linkedin.com/in/pioioiotr)
