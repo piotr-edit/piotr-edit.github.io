@@ -14,4 +14,5 @@ title: Piotr Wójcik - kontakt
 ---
 
 Zapraszam do kontaktu przez maila: piotr \[kropka\] edit \[małpa\] gmail \[kropka\] com
+
 [LinkedIn](https://pl.linkedin.com/in/pioioiotr)
