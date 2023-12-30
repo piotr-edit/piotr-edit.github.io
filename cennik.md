@@ -14,3 +14,7 @@ title: Piotr Wójcik - cennik
 ---
 
 ## Cennik
+
+| Usługa    | Cena      |
+| ---       | ---       |
+| Za słowo  | 0.015 PLN |
