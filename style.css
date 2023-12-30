@@ -1,0 +1,21 @@
+body {
+  background-color: #222;
+  color: #F6F6F6;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #ffd60a;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffc300;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 25%;
+}
