@@ -1,6 +1,7 @@
 ---
 title: Piotr Wójcik
 ---
+<link rel="stylesheet" href="style.css"> 
 
 # Piotr Wójcik, English Editor
 ## Profesjonalna korekta angielskiego od native'a
