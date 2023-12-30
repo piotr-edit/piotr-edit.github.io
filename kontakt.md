@@ -14,6 +14,8 @@ title: Piotr Wójcik - kontakt
 
 ---
 
+## Kontakt
+
 <form
   action="https://formspree.io/f/meqyqere"
   method="POST"
