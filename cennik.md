@@ -28,6 +28,7 @@ title: Piotr Wójcik - cennik
 **Uwaga:** 1 strona to około 500 słów. Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 3 dni biznesowych.
 
 Akceptowane formaty:
-- Word (plik w formie .doc, .docx)
+- Word (.doc, .docx)
 - Google Docs (link)
 - OpenDocument (.odf)
+- Inne: .txt, .ppt, .pptx
