@@ -29,11 +29,11 @@ title: Piotr Wójcik - cennik
 | + Realizacja ekspresowa         | Proszę o kontakt |
 -->
 <h4><div style="float: left">Usługa</div><div style="float: right">Cena</div><div style="clear: both;"></div></h4>
-<div style="float: left">Krótka (do 2500 słów)</div><div style="float: right">0.06 PLN/słowo</div>
-<div style="float: left">Średnia (2501-5000 słów)</div><div style="float: right">0.05 PLN/słowo</div>
-<div style="float: left">Długa (ponad 5000 słów)</div><div style="float: right">0.04 PLN/słowo</div>
-<div style="float: left">+ Głębsza redakcja stylistyczna</div><div style="float: right">+100%</div>
-<div style="float: left">+ Niespodziewane trudności (n.p.  niestandardowy format)</div><div style="float: right">+10%</div>
+<div style="float: left">Krótka (do 2500 słów)</div><div style="float: right">0.06 PLN/słowo</div><br>
+<div style="float: left">Średnia (2501-5000 słów)</div><div style="float: right">0.05 PLN/słowo</div><br>
+<div style="float: left">Długa (ponad 5000 słów)</div><div style="float: right">0.04 PLN/słowo</div><br>
+<div style="float: left">+ Głębsza redakcja stylistyczna</div><div style="float: right">+100%</div><br>
+<div style="float: left">+ Niespodziewane trudności (n.p.  niestandardowy format)</div><div style="float: right">+10%</div><br>
 <div style="float: left">+ Realizacja ekspresowa</div><div style="float: right">Proszę o kontakt</div><div style="clear: both;"></div>
 
 **Uwaga:** 1 strona to około 500 słów. Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 3 dni biznesowych. Na wycenę dłuższych tekstów, zapraszam do [kontaktu](kontakt.md) bezspośredniego.
