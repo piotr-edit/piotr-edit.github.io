@@ -34,9 +34,6 @@ a:visited {
   color: #222;
 }
 */
-.container table td {
-  color: #222; /* Text color in table cells */
-}
 
 ::selection {
   background-color: #443FAA; /* Text highlight color */
