@@ -11,4 +11,4 @@ title: Piotr Wójcik
 
 ---
 
-<div style="float: left">piotr \[kropka\] edit \{małpa\} gmail \[kropka\] com</div><div style="float: right">[LinkedIn](https://linkedin.com/in/pioioiotr)</div>
+<div style="float: left">piotr [kropka] edit {małpa} gmail [kropka] com</div><div style="float: right"><a href="https://linkedin.com/in/pioioiotr">LinkedIn</a></div>
