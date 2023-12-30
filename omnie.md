@@ -17,13 +17,16 @@ title: Piotr Wójcik - o mnie
 
 Cześć! Jestem doświadczonym redaktorem tekstów w języku angielskim. Także się interesuję grafiką, kartografią, urbanistyką i sztuczną inteligencją. Obecnie mieszkam w Krakowie ale pracuję na 100% zdalnie. Proszę o kontakt w celu omówienia, w jaki sposób mogę pomóc przy realizacji Twojego projektu. Poniżej załączam CV.
 
-### Edukacja
+### Akademia
 
 - Magisterium w Geografii (2022)
   - University of Kentucky (Lexington, KY, USA)
   - Certyfikat Podyplomowy z Zarządzania Finansami Publicznymi
+  - Praca magisterska pt. *Tracks/traces: The New Deal transformation of Lexington, Kentucky’s landscapes of horseracing and housing* czyli "Społeczno-przestrzenne transformacje mieszkalnictwa i jeździectwa w Lexington, Kentucky podczas amerykańskiego Nowego Ładu"
+    - Stworzyłem powiązany [zin](tracks-traces-small.pdf) i przemawiałem na ten temat na konferencji [Kolaj Fest 2022](http://www.kolajmagazine.com/kolajfest/2022/program.html)
 - Licencjat w Studiach Miejskich (2020)
   - University of Pennsylvania (Philadelphia, PA, USA)
+  - Wyróżniona praca dyplomowa pt. *Grounds for Development? The Contradictory Production Of “Vacancy” In Data-Driven Philadelphia* czyli "Paradoksalna produkcja pustości w Filadelfii w epoce cyfrowej"
 
 ### Praca
 
@@ -35,8 +38,16 @@ Cześć! Jestem doświadczonym redaktorem tekstów w języku angielskim. Także 
   - University of Kentucky (Lexington, KY, USA)
   - Sierpień 2020 - maj 2022
   - Jako asystent nauczyciela planowałem i prowadziłem cotygodniowe lekcje, między innymi dla kursu "Miasta w Stanach Zjednoczonych", podczas których omawiałem złożone koncepcje geograficzne z udziałem 50-70 studentów na semestr. Moje zajęcia zawsze cieszyły się doskonałymi ocenami studentów.
+  - Public Research Intern
+  - Penn Program in Environmental Humanities (Filadelfia, PA, USA)
+  - Październik 2019 - Lipiec 2020
+  - Na tym stanowisku przeprowadzałem wywiady, tworzyłem scenariusze i produkowałem odcinki 7-9 podcastu Data Remediations. Ponadto, wspomagałem planowanie oraz obsługę operacyjną różnych konferencji akademickich na temat badań humanistycznych w obszarze środowiska.
+- Stażysta
+  - Projekt Heidelberg (Detroit, MI, USA)
+  - Czerwiec 2019 - Sierpień 2019
+  - Wspierany przez program Gordon Fellows, miałem okazję spędzić lato pracując w znanej organizacji pozarządowej zajmującej się sztuką na wschodnim obszarze Detroit. Wspierałem mały zespoł wielodyscyplinarny w zakresie projektowania graficznego, zbierania i przetwarzania danych oraz koordynacji wolontariuszy.
 - Stażysta ds. Komunikacji
-  - Philadelphia Orchard Project (Philadelphia, PA, USA)
+  - Philadelphia Orchard Project (Filadelfia, PA, USA)
   - Styczeń - maj 2019
   - Tworzyłem treści edukacyjne dla warsztatów na temat permakultury oraz projektowałem materiały cyfrowe i drukowane, takie jak ulotki, broszury i raporty roczne. Współpraca z organizacją trwała na podstawie różnych zleceń aż do 2023 r.
 - Stażysta ds. Rozwoju Organizacyjnego
