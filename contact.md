@@ -16,6 +16,25 @@ title: Piotr Wojcik - contact
 
 ## Contact
 
-Please email inquiries to piotr \[dot\] edit \[at\] gmail \[dot\] com
+<form
+  action="https://formspree.io/f/meqyqere"
+  method="POST"
+>
+  <label>
+    Name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+  <button type="submit">Send</button>
+</form>
+
+You can also email inquiries to piotr \[dot\] edit \{at\} gmail \[dot\] com
 
 [LinkedIn](https://linkedin.com/in/pioioiotr)

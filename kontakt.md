@@ -14,6 +14,25 @@ title: Piotr Wójcik - kontakt
 
 ---
 
-Zapraszam do kontaktu przez maila: piotr \[kropka\] edit \[małpa\] gmail \[kropka\] com
+<form
+  action="https://formspree.io/f/meqyqere"
+  method="POST"
+>
+  <label>
+    Name:
+    <input type="text" name="name">
+  </label>
+  <label>
+    Email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+  <button type="submit">Send</button>
+</form>
+
+Zapraszam do kontaktu bezpośredniego przez maila: piotr \[kropka\] edit \{małpa\} gmail \[kropka\] com
 
 [LinkedIn](https://pl.linkedin.com/in/pioioiotr)
