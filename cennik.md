@@ -19,13 +19,13 @@ title: Piotr Wójcik - cennik
 
 | Usługa                          | Cena             |
 |---------------------------------|------------------|
-| Krótka (do 2500 słów)           | 0.05 PLN/słowo   |
-| Średnia (2501-5000 słów)        | 0.04 PLN/słowo   |
-| Długa (ponad 5000 słów)         | 0.03 PLN/słowo   |
+| Krótka (do 2500 słów)           | 0.06 PLN/słowo   |
+| Średnia (2501-5000 słów)        | 0.05 PLN/słowo   |
+| Długa (ponad 5000 słów)         | 0.04 PLN/słowo   |
 | + Głębsza redakcja stylistyczna | +100%            |
-| + Realizacja przyspieszona      | Proszę o kontakt |
+| + Realizacja ekspresowa         | Proszę o kontakt |
 
-Uwaga: 1 strona to około 500 słów.
+**Uwaga:** 1 strona to około 500 słów. Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 3 dni biznesowych.
 
 Akceptowane formaty:
 - Word (plik w formie .doc, .docx)
