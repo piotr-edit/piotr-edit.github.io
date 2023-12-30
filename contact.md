@@ -16,10 +16,7 @@ title: Piotr Wojcik - contact
 
 ## Contact
 
-<form
-  action="https://formspree.io/f/meqyqere"
-  method="POST"
->
+<form action="https://formspree.io/f/meqyqere" method="POST">
   <label>Name:</label><br>
     <input type="text" name="name"><br>
   <label>Email:</label><br>
@@ -28,6 +25,7 @@ title: Piotr Wojcik - contact
     <textarea name="message"></textarea><br>
   <button type="submit">Send</button>
 </form>
+<br>
 
 You can also email inquiries to piotr \[dot\] edit \{at\} gmail \[dot\] com
 

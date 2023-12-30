@@ -16,22 +16,13 @@ title: Piotr Wójcik - kontakt
 
 ## Kontakt
 
-<form
-  action="https://formspree.io/f/meqyqere"
-  method="POST"
->
-  <label>
-    Name:
-    <input type="text" name="name">
-  </label>
-  <label>
-    Email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Message:
-    <textarea name="message"></textarea>
-  </label>
+<form action="https://formspree.io/f/meqyqere" method="POST">
+  <label>Name:</label><br>
+    <input type="text" name="name"><br>
+  <label>Email:</label><br>
+    <input type="email" name="email"><br>
+  <label>Message:</label><br>
+    <textarea name="message"></textarea><br>
   <button type="submit">Send</button>
 </form>
 
