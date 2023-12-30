@@ -20,6 +20,7 @@ title: Piotr Wójcik - cennik
 
 ### Korekta i podstawowa redakcja w j. angielskim
 
+<!--
 | Usługa                          | Cena             |
 |---------------------------------|------------------|
 | Krótka (do 2500 słów)           | 0.06 PLN/słowo   |
@@ -28,6 +29,41 @@ title: Piotr Wójcik - cennik
 | + Głębsza redakcja stylistyczna | +100%            |
 | + Niespodziewane trudności (n.p.  niestandardowy format) | +10% |
 | + Realizacja ekspresowa         | Proszę o kontakt |
+-->
+<table>
+<thead>
+  <tr>
+    <th>Usługa</th>
+    <th>Cena</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Krótka (do 2500 słów)</td>
+    <td>0.06 PLN/słowo</td>
+  </tr>
+  <tr>
+    <td>Średnia (2501-5000 słów)</td>
+    <td>0.05 PLN/słowo</td>
+  </tr>
+  <tr>
+    <td>Długa (ponad 5000 słów)</td>
+    <td>0.04 PLN/słowo</td>
+  </tr>
+  <tr>
+    <td>+ Głębsza redakcja stylistyczna</td>
+    <td>+100%</td>
+  </tr>
+  <tr>
+    <td>+ Niespodziewane trudności (n.p.  niestandardowy format)</td>
+    <td>+10%</td>
+  </tr>
+  <tr>
+    <td>+ Realizacja ekspresowa</td>
+    <td>Proszę o kontakt</td>
+  </tr>
+</tbody>
+</table>
 
 **Uwaga:** 1 strona to około 500 słów. Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 3 dni biznesowych. Na wycenę dłuższych tekstów, zapraszam do [kontaktu](kontakt.md) bezspośredniego.
 
