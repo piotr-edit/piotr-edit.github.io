@@ -2,12 +2,12 @@
 title: Piotr Wójcik
 ---
 
-# English Editing
+# Profesjonalna korekta angielskiego
 
-- [Home](#home)
-- [About](#about)
-- [Services & Pricing](#services)
-- [Blog](#blog)
-- [Contact](#contact)
+- [Home](index.md)
+- [About](about.md)
+- [Pricing](pricing.md)
+- [Contact](contact.md)
+- [English](english.md)
 
 ---
