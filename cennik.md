@@ -1,9 +1,12 @@
 ---
 title: Piotr Wójcik - cennik
 ---
+<link rel="stylesheet" href="style.css">
 
 # Piotr Wójcik, English Editor
-## Profesjonalna korekta angielskiego od native'a
+
+<h3><div style="float: left">Profesjonalna korekta angielskiego od native'a</div><div style="float: right"><a href="pricing.html" title="Please click here for English">🇬🇧</a></div><div style="clear: both;"></div></h3>
+
 [Please click here for English.](pricing.md)
 
 - [Strona główna](index.md)

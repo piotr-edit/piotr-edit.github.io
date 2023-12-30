@@ -4,10 +4,7 @@ title: Piotr Wójcik
 <link rel="stylesheet" href="style.css">
 
 # Piotr Wójcik, English Editor
-<!-- <div id="textbox">
-  <p class="alignleft">Profesjonalna korekta angielskiego od native'a</p>
-  <p class="alignright"><a href="index_en.html" title="Please click here for English">🇬🇧</a></p>
-</div> -->
+
 <h3><div style="float: left">Profesjonalna korekta angielskiego od native'a</div><div style="float: right"><a href="index_en.html" title="Please click here for English">🇬🇧</a></div><div style="clear: both;"></div></h3>
 
 - [Strona główna](index.md)

@@ -1,10 +1,11 @@
 ---
 title: Piotr Wójcik - o mnie
 ---
+<link rel="stylesheet" href="style.css">
 
 # Piotr Wójcik, English Editor
-## Profesjonalna korekta angielskiego od native'a
-[Please click here for English.](about.md)
+
+<h3><div style="float: left">Profesjonalna korekta angielskiego od native'a</div><div style="float: right"><a href="about.html" title="Please click here for English">🇬🇧</a></div><div style="clear: both;"></div></h3>
 
 - [Strona główna](index.md)
 - [O mnie](omnie.md)
