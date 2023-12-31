@@ -11,4 +11,16 @@ title: Piotr Wojcik
 
 ---
 
+![Banner image of man smiling behind a laptop next to a greeting: "Cześć!"](banner.png "Cześć!")
+
+<p style="font-size: 36px; font-weight: bold; color: #ffc300">Looking for a fast and reliable English editing service?</p>
+
+# You've come to the right place.
+
+My name is Piotr Wójcik and I offer a wide variety of proofreading and editing services for many different types of texts, including translated materials, scientific articles, business and marketing copy, literary works, biographical texts, college applications, and more. I have degrees from some of the top schools in the US and years of academic and professional experience in English-language editing. You can rest easy knowing that your text is in good hands and will return to you with the highest possible quality. Please feel free to take advantage of my [services](pricing.md).
+
+Nazywam się Piotr Wójcik i oferuję kompleksowy szereg usług redakcyjnych i korektorskich dla różnych tekstów napisanych w j. angielskim, w tym materiały tłumaczone, naukowe, biznewsowe, marketingowe, literackie, biograficzne, podania, aplikacje, itd. Mam wykształcenie z jednych najlepszych uczelni wyśszych w USA i profesjonalne doświadczenie redakcyjną i korektorską. Możesz spać spokojnie, wiedząc, że Twój tekst jest w dobrych rękach i szybko zostanie zwrócony do Ciebie z najwyższą jakością. Zapraszam do skorzystania z moich [usług](kontakt.md).
+
+---
+
 <div style="float: left"><a target="_blank" href="https://veilmail.io/e/fuGedM">e-mail</a></div><div style="float: right"><a href="https://linkedin.com/in/pioioiotr">LinkedIn</a></div>
