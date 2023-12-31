@@ -15,7 +15,7 @@ title: Piotr Wójcik - o mnie
 
 Cześć! Jestem doświadczonym redaktorem tekstów w języku angielskim. Także się interesuję grafiką, kartografią, urbanistyką i sztuczną inteligencją. Obecnie mieszkam w Krakowie ale pracuję na 100% zdalnie. Proszę o kontakt w celu omówienia, w jaki sposób mogę pomóc przy realizacji Twojego projektu. Poniżej załączam CV.
 
-### Akademia
+<h3 style="color: #ffc300">Akademia</h3>
 
 - Magisterium w Geografii (2022)
   - University of Kentucky (Lexington, KY, USA)
