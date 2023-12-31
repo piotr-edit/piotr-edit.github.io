@@ -72,4 +72,4 @@ Cześć! Jestem doświadczonym redaktorem tekstów w języku angielskim. Także 
 
 ---
 
-<div style="float: left">piotr [kropka] edit {małpa} gmail [kropka] com</div><div style="float: right"><a href="https://linkedin.com/in/pioioiotr">LinkedIn</a></div>
+<div style="float: left"><a target="_blank" href="https://veilmail.io/e/fuGedM">e-mail</a></div><div style="float: right"><a href="https://linkedin.com/in/pioioiotr">LinkedIn</a></div>
