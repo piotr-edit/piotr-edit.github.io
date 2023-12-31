@@ -13,9 +13,11 @@ title: Piotr Wójcik
 
 ![Banner image of man smiling behind a laptop next to a greeting: "Cześć!"](banner.png "Cześć!")
 
-<p style="font-size: 36px; font-weight: bold; color: #ffd60a">Szukasz szybkiej i precyzyjnej pomocy w poprawie tekstów po angielsku?</p>
+<p style="font-size: 36px; font-weight: bold; color: #ffc300">Szukasz szybkiej i precyzyjnej pomocy w poprawie tekstów?</p>
 
-Trafiłaś/eś w dobre miejsce.
+# Trafiłaś/eś w dobre miejsce.
+
+Nazywam się Piotr Wójcik i oferuję szereg usług redakcyjnych i korektorskich dla tekstów w języku angielskim, czy to teksty tłumaczone czy napisane po angielsku. Zapraszam do skorzystania z moich usług.
 
 ---
 
