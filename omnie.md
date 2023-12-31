@@ -15,7 +15,7 @@ title: Piotr Wójcik - o mnie
 
 Cześć! Jestem doświadczonym redaktorem tekstów w języku angielskim. Także się interesuję grafiką, kartografią, urbanistyką i sztuczną inteligencją. Obecnie mieszkam w Krakowie ale pracuję na 100% zdalnie. Proszę o kontakt w celu omówienia, w jaki sposób mogę pomóc przy realizacji Twojego projektu. Poniżej załączam CV.
 
-<h3 style="color: #ffc300">Akademia</h3>
+<h3 style="color: #ffc300">Edukacja</h3>
 
 - Magisterium w Geografii (2022)
   - University of Kentucky (Lexington, KY, USA)
@@ -26,7 +26,7 @@ Cześć! Jestem doświadczonym redaktorem tekstów w języku angielskim. Także 
   - University of Pennsylvania (Philadelphia, PA, USA)
   - Wyróżniona praca dyplomowa pt. *Grounds for Development? The Contradictory Production Of “Vacancy” In Data-Driven Philadelphia* czyli "Paradoksalna produkcja pustości w Filadelfii w epoce cyfrowej"
 
-### Praca
+<h3 style="color: #ffc300">Praca</h3>
 
 - English Editor
   - MDPI (Kraków, Polska)
@@ -53,7 +53,7 @@ Cześć! Jestem doświadczonym redaktorem tekstów w języku angielskim. Także 
   - Czerwiec - sierpień 2018
   - Pracując w międzynarodowym i wielokulturowym środowisku, opracowałem plan poprawy komunikacji wewnętrznej w jednym z największych indyjskich producentów odzieży "ready to wear". Projekt obejmował wprowadzenie nowej signalizacji na hali produkcyjnej, aktualizację projektu dowodów wypłaty, itd.
 
-### Umiejętności
+<h3 style="color: #ffc300">Umiejętności</h3>
 
 - Edytorstwo/korekta
   - Miscrosoft Word (w tym zdolność w tworzeniu makr)
@@ -69,6 +69,7 @@ Cześć! Jestem doświadczonym redaktorem tekstów w języku angielskim. Także 
   - Adobe Creative Suite (Photoshop, Illustrator, InDesign)
   - GIMP
   - Canva
+  - Stable Diffusion (AI)
 
 ---
 

@@ -13,7 +13,7 @@ title: Piotr Wójcik - cennik
 
 ## Cennik
 
-### Korekta i podstawowa redakcja w j. angielskim
+<h3 style="color: #ffc300">Korekta i podstawowa redakcja w j. angielskim</h3>
 
 <!--
 | Usługa                          | Cena             |

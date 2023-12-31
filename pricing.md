@@ -13,7 +13,7 @@ title: Piotr Wojcik - pricing
 
 ## Pricing
 
-### English language editing (spelling, grammar, basic style)
+<h3 style="color: #ffc300">English language editing (spelling, grammar, basic style)</h3>
 
 <!--
 | Service                         | Price            |

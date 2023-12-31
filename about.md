@@ -15,7 +15,7 @@ title: Piotr Wojcik - about
 
 Hi! I am a professional English editor based in Krakow, Poland. I am also interested in graphic design, cartography, urbanism, and AI. Please don't hesitate to reach out to see how I can help with your project (more details are on the [Contact](contact.md) page). Below, you can find some of my recent experience.
 
-### Academia
+<h3 style="color: #ffc300">Academia</h3>
 
 - MA in Geography
   - University of Kentucky (Lexington, KY, USA)
@@ -28,7 +28,7 @@ Hi! I am a professional English editor based in Krakow, Poland. I am also intere
   - August 2017 - May 2020
   - [Honors](https://www.sas.upenn.edu/news/penn-arts-sciences-names-2020-deans-scholars) thesis: *Grounds for Development? The Contradictory Production Of “Vacancy” In Data-Driven Philadelphia* with Dr. Molly McGlone
 
-### Employment
+<h3 style="color: #ffc300">Employment</h3>
 
 - English Editor, Learning and Development Assistant
   - MDPI (Krakow, Poland)
@@ -55,7 +55,7 @@ Hi! I am a professional English editor based in Krakow, Poland. I am also intere
   - June - August 2018
   - One summer, I worked in an international and multicultural setting to develop a plan for improving internal communication at one of India’s largest ready-made garment manufacturers through adopting new signage on the factory floor, updating the design of pay stubs, etc.
 
-### Skills
+<h3 style="color: #ffc300">Skills</h3>
 
 - Editing/word processing
   - Microsoft Word (including fluency in macros)
@@ -71,6 +71,7 @@ Hi! I am a professional English editor based in Krakow, Poland. I am also intere
   - Adobe Creative Suite (Photoshop, Illustrator, InDesign)
   - GIMP
   - Canva
+  - Stable Diffusion (AI)
 
   ---
 
