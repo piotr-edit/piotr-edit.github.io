@@ -26,9 +26,9 @@ title: Piotr Wojcik - pricing
 | + Express/priority service      | Please contact me |
 -->
 <div style="float: left"><strong>Service:</strong></div><div style="float: right"><strong>Price:</strong></div><br>
-<div style="float: left">Short text (up to 2500 words)</div><div style="float: right">0.06 PLN/word</div><br>
-<div style="float: left">Medium text (2501-5000 words)</div><div style="float: right">0.05 PLN/word</div><br>
-<div style="float: left">Long text (over 5000 words)</div><div style="float: right">0.04 PLN/word</div><br>
+<div style="float: left">Short text (up to 2500 words)</div><div style="float: right">0.016 USD/word</div><br>
+<div style="float: left">Medium text (2501-5000 words)</div><div style="float: right">0.013 USD/word</div><br>
+<div style="float: left">Long text (over 5000 words)</div><div style="float: right">0.01 USD/word</div><br>
 <div style="float: left">+ Advanced style editing</div><div style="float: right">+100%</div><br>
 <div style="float: left">+ Unforeseen issues (e.g., non-standard format)</div><div style="float: right">+10%</div><br>
 <div style="float: left">+ Express/priority service</div><div style="float: right">Please contact me</div><div style="clear: both;"></div><br>
