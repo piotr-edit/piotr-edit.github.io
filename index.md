@@ -13,7 +13,7 @@ title: Piotr Wójcik
 
 ![Banner image of man smiling behind a laptop next to a greeting: "Cześć!"](banner.png "Cześć!")
 
-<p style="font-size:36px; font-color:#ffd60a">Szukasz szybkiej i precyzyjnej pomocy w poprawie tekstów po angielsku?</p>
+<p style="font-size:24px; color:#ffd60a">Szukasz szybkiej i precyzyjnej pomocy w poprawie tekstów po angielsku?</p>
 
 Trafiłaś/eś w dobre miejsce.
 
