@@ -33,7 +33,7 @@ title: Piotr Wojcik - pricing
 <div style="float: left">+ Unforeseen issues (e.g., non-standard format)</div><div style="float: right">+10%</div><br>
 <div style="float: left">+ Express/priority service</div><div style="float: right">Please contact me</div><div style="clear: both;"></div><br>
 
-**Uwaga:** 1 page is approximately 500 words. Turnaround time depends on the length and compleity of the text but is generally within 3 days for basic language editing. For larger and more complex projects, please reach out [directly](contact.md) for a free quote.
+**Please note:** 1 page is approximately 500 words. Turnaround time depends on the length and compleity of the text but is generally within 3 days for basic language editing. For larger and more complex projects, please reach out [directly](contact.md) for a free quote.
 
 #### Accepted formats:
 - Word (.doc, .docx)
