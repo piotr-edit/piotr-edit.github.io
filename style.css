@@ -30,8 +30,9 @@ a:visited {
 /* Bottom left text */
 .text-block {
   position: absolute;
-  bottom: 20px;
-  left: 20px;
+  bottom: 10%;
+  left: 10%;
+  padding-right: 10%;
 } 
 
 /*

@@ -16,7 +16,7 @@ title: Piotr Wójcik
   <div class="text-block">
     <p style="font-size: 64px; font-weight: bold; color: #ffc300">Cześć!</p>
     <p style="font-size: 36px">Szukasz szybkiej i precyzyjnej pomocy w poprawie tekstów anglojęzycznych?</p>
-    <p style="font-weight: bold; color: #ffc300">Trafiłaś/eś w dobre miejsce.</p>
+    <p style="font-size: 18px; font-weight: bold; color: #ffc300">Trafiłaś/eś w dobre miejsce.</p>
   </div>
 </div> 
 
