@@ -26,7 +26,7 @@ title: Piotr Wójcik
 
 # Trafiłaś/eś w dobre miejsce. -->
 <br>
-<div style="padding: 10%; background-color: #ffc300; font-color: #222">
+<div class="text-block" style="background-color: #ffc300; color: #222">
 Nazywam się Piotr Wójcik i oferuję kompleksowy szereg usług redakcyjnych i korektorskich dla różnych tekstów napisanych w j. angielskim, w tym materiały tłumaczone, naukowe, biznewsowe, marketingowe, literackie, biograficzne, podania, aplikacje, itd. Mam wykształcenie z jednych najlepszych uczelni wyższych w USA i profesjonalne doświadczenie redakcyjną i korektorską. Możesz spać spokojnie, wiedząc, że Twój tekst jest w dobrych rękach i szybko zostanie zwrócony do Ciebie z najwyższą jakością. Zapraszam do skorzystania z moich <a href="cennik.md">usług</a>.
 </div>
 
