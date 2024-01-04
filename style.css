@@ -23,6 +23,8 @@ a:visited {
 /* Container holding the image and the text */
 .img-container {
   position: relative;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
 }
 
 /* Bottom left text */

@@ -14,9 +14,9 @@ title: Piotr Wójcik
  <div class="img-container">
   <img src="ai_cafe_dark.webp" alt="Photo of Piotr" style="width:100%;">
   <div class="text-block">
-    <p style="font-size: 36px; font-weight: bold; color: #ffc300">Cześć!</p>
-    <p style="font-size: 36px; font-weight: bold; color: #ffc300">Szukasz szybkiej i precyzyjnej pomocy w poprawie tekstów anglojęzycznych?</p>
-    <p><strong>Trafiłaś/eś w dobre miejsce.</strong></p>
+    <p style="font-size: 64px; font-weight: bold; color: #ffc300">Cześć!</p>
+    <p style="font-size: 36px">Szukasz szybkiej i precyzyjnej pomocy w poprawie tekstów anglojęzycznych?</p>
+    <p style="font-weight: bold; color: #ffc300">Trafiłaś/eś w dobre miejsce.</p>
   </div>
 </div> 
 
