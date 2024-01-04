@@ -24,7 +24,7 @@ a:visited {
 .img-container {
   position: relative;
   object-fit: cover;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 2 / 1;
 }
 
 /* Bottom left text */
