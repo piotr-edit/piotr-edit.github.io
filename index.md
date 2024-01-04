@@ -11,11 +11,20 @@ title: Piotr Wójcik
 
 ---
 
-![Banner image of man smiling behind a laptop next to a greeting: "Cześć!"](banner.png "Cześć!")
+ <div class="img-container">
+  <img src="ai_cafe_dark.webp" alt="Photo of Piotr" style="width:100%;">
+  <div class="text-block">
+    <h1>Cześć!</h1>
+    <h2>Szukasz szybkiej i precyzyjnej pomocy w poprawie tekstów anglojęzycznych?</h2>
+    <p>Trafiłaś/eś w dobre miejsce.</p>
+  </div>
+</div> 
+
+<!-- ![Banner image of man smiling behind a laptop next to a greeting: "Cześć!"](banner.png "Cześć!")
 
 <p style="font-size: 36px; font-weight: bold; color: #ffc300">Szukasz szybkiej i precyzyjnej pomocy w poprawie tekstów anglojęzycznych?</p>
 
-# Trafiłaś/eś w dobre miejsce.
+# Trafiłaś/eś w dobre miejsce. -->
 
 Nazywam się Piotr Wójcik i oferuję kompleksowy szereg usług redakcyjnych i korektorskich dla różnych tekstów napisanych w j. angielskim, w tym materiały tłumaczone, naukowe, biznewsowe, marketingowe, literackie, biograficzne, podania, aplikacje, itd. Mam wykształcenie z jednych najlepszych uczelni wyższych w USA i profesjonalne doświadczenie redakcyjną i korektorską. Możesz spać spokojnie, wiedząc, że Twój tekst jest w dobrych rękach i szybko zostanie zwrócony do Ciebie z najwyższą jakością. Zapraszam do skorzystania z moich [usług](cennik.md).
 

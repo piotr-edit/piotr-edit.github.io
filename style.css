@@ -19,6 +19,19 @@ a:visited {
   margin: 0 auto;
   padding: 0 25%;
 }
+
+ /* Container holding the image and the text */
+ .img-container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+} 
+
 /*
 .container table {
   width: 100%;
