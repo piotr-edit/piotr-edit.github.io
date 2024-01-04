@@ -20,12 +20,12 @@ a:visited {
   padding: 0 25%;
 }
 
- /* Container holding the image and the text */
- .img-container {
+/* Container holding the image and the text */
+.img-container {
   position: relative;
 }
 
-/* Bottom right text */
+/* Bottom left text */
 .text-block {
   position: absolute;
   bottom: 20px;
