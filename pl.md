@@ -55,7 +55,7 @@ Z pasją pomagam autorom udoskonalać swoje projekty, dlatego zapraszam do wspó
 
 Moim celem jest pomoc w udoskonalaniu tekstów anglojęzycznych, które przyciągają uwagę i angażują. Niezależnie od tego, czy piszesz powieści, artykuły naukowe czy posty do social media - jestem tutaj, aby Ci pomóc.
 
-Kliknij [tutaj](cv-pl.md), aby zobaczyć moje szczegółowe cv.
+Kliknij [tutaj](pl-cv.md), aby zobaczyć moje szczegółowe cv.
 
 ---
 
