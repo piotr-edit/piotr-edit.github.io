@@ -2,6 +2,8 @@
 title: Piotr Edit (PL)
 ---
 
+Looking for the English version? 🇬🇧🇺🇸 [Click here!](index.md)
+
 # Profesjonalna korekta anglojęzyczna
 
 Cześć! Nazywam się Piotr, jestem korektorem tekstów angielskojęzycznych w Krakowie.  
