@@ -7,7 +7,7 @@ Looking for the English version? 🇬🇧🇺🇸 [Click here!](index.md)
 # Profesjonalna korekta anglojęzyczna
 
 Cześć! Nazywam się Piotr i jestem korektorem tekstów angielskojęzycznych w Krakowie.  
-Po ukończeniu kilku prestiżowych uczelni w USA zdobyłem wieloletnie doświadczenie zawodowe w pracy nad różnorodnymi tekstami.
+Po ukończeniu niejednej prestiżowej uczelni w USA zdobyłem wieloletnie doświadczenie zawodowe w pracy nad różnorodnymi tekstami.
 Moje portfolio obejmuje tłumaczenia, artykuły naukowe, materiały biznesowe i marketingowe, rękopisy literackie, biografie, aplikacje na studia i wiele innych.
 Z pasją pomagam autorom udoskonalać swoje projekty, dlatego zapraszam do współpracy, aby wspólnie nadać Twoim pomysłom klarowność, precyzję i niepowtarzalny styl.
 
