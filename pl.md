@@ -6,10 +6,10 @@ Looking for the English version? 🇬🇧🇺🇸 [Click here!](index.md)
 
 # Profesjonalna korekta anglojęzyczna
 
-Cześć! Nazywam się Piotr, jestem korektorem tekstów angielskojęzycznych w Krakowie.  
+Cześć! Nazywam się Piotr i jestem korektorem tekstów angielskojęzycznych w Krakowie.  
 Po ukończeniu kilku prestiżowych uczelni w USA zdobyłem wieloletnie doświadczenie zawodowe w pracy nad różnorodnymi tekstami.
 Moje portfolio obejmuje tłumaczenia, artykuły naukowe, materiały biznesowe i marketingowe, rękopisy literackie, biografie, aplikacje na studia i wiele innych.
-Z pasją pomagam autorom udoskonalać projekty pisemne, dlatego zapraszam do współpracy, aby wspólnie nadać Twoim pomysłom klarowność, precyzję i niepowtarzalny styl.
+Z pasją pomagam autorom udoskonalać swoje projekty, dlatego zapraszam do współpracy, aby wspólnie nadać Twoim pomysłom klarowność, precyzję i niepowtarzalny styl.
 
 ---
 
@@ -43,7 +43,7 @@ Z pasją pomagam autorom udoskonalać projekty pisemne, dlatego zapraszam do wsp
 | Średni tekst (2,501–5,000 słów) | 0,09 PLN     |
 | Długi tekst (powyżej 5,000 słów) | 0,08 PLN    |
 | *Nieprzewidziane trudności (np. niestandardowy format)* | *+10%* |
-| *Usługa ekspresowa*         | *Indywidualna wycena* |
+| *Usługa ekspresowa*    | *Indywidualna wycena* |
 
 \*Proszę o kontakt w celu uzyskania spersonalizowanej wyceny, w tym stawki w USD lub EUR!
 
@@ -53,18 +53,18 @@ Z pasją pomagam autorom udoskonalać projekty pisemne, dlatego zapraszam do wsp
 
 ## O mnie
 
-Moim celem jest pomoc pisarzom w udoskonalaniu ich twórczości i tworzeniu treści, które przyciągają uwagę i angażują. Niezależnie od tego, czy jesteś powieściopisarzem, naukowcem czy twórcą treści, jestem tutaj, aby Ci pomóc.
+Moim celem jest pomoc w udoskonalaniu tekstów anglojęzycznych, które przyciągają uwagę i angażują. Niezależnie od tego, czy piszesz powieści, artykuły naukowe czy posty do social media - jestem tutaj, aby Ci pomóc.
 
-Kliknij [tutaj](cv.md), aby zobaczyć moje szczegółowe CV.
+Kliknij [tutaj](cv-pl.md), aby zobaczyć moje szczegółowe cv.
 
 ---
 
 ## Kontakt
 
-Skontaktuj się ze mną już dziś, aby omówić swoje potrzeby redakcyjne: piotr \[dot\] edit -at- gmail \[dot\] com.  
+Zapraszam do maila: piotr \[dot\] edit -at- gmail \[dot\] com.  
 
 Możesz mnie także znaleźć na [LinkedIn](https://linkedin.com/in/pioioiotr).
 
 ---
 
-**Tchnijmy życie w Twoje teksty!**
+**Zaufaj profesjonaliście – skontaktuj się teraz!**
