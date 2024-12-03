@@ -46,6 +46,7 @@ Z pasją pomagam autorom udoskonalać projekty pisemne, dlatego zapraszam do wsp
 \*Proszę o kontakt w celu uzyskania spersonalizowanej wyceny, w tym stawki w USD lub EUR!
 
 **Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 5 dni biznesowych dla podstawowej korekty językowej.**
+
 ---
 
 ## O mnie
