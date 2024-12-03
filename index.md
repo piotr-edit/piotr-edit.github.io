@@ -6,9 +6,7 @@ title: Piotr Wójcik, English Editor
 
 [TODO: ADD TESTIMONIAL SECTION]: #
 
-# piotr.edit
-
-## Professional English editing and proofreading services
+# Professional English editing and proofreading services
 
 Hello! I'm Piotr, a passionate copy editor based in Krakow, Poland.
 After graduating from some of the top schools in the US, I have honed my craft through years of professional experience in English-language editing.
