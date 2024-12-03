@@ -1,8 +1,8 @@
 ---
 title: Piotr Wójcik, English Editor
 ---
-[//] # (<link rel="stylesheet" href="style.css">)
-[//] # (TODO: ADD TESTIMONIAL SECTION)
+[<link rel="stylesheet" href="style.css">]: #
+[TODO: ADD TESTIMONIAL SECTION]: #
 
 # piotr.edit
 
