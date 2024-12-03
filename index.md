@@ -1,5 +1,5 @@
 ---
-title: Piotr Wójcik, English Editor
+title: Piotr Edit
 ---
 
 [<link rel="stylesheet" href="style.css">]: #
