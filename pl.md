@@ -15,7 +15,7 @@ Z pasją pomagam autorom udoskonalać swoje projekty, dlatego zapraszam do wspó
 
 ## Usługi i cennik
 
-### **Podstawowa korekta i redakcja tekstu**
+### **Podstawowa korekta tekstu**
 - Poprawa gramatyki, interpunkcji i ortografii
 - Zapewnienie spójności i czytelności
 - Przygotowanie tekstu gotowego do publikacji
