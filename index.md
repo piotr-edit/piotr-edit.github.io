@@ -6,6 +6,8 @@ title: Piotr Edit
 
 [TODO: ADD TESTIMONIAL SECTION]: #
 
+Szukasz wersji w języku polskim? 🇵🇱 [Kliknij tutaj!](pl.md)
+
 # Professional English editing and proofreading services
 
 Hello! I'm Piotr, a passionate copy editor based in Krakow, Poland.
