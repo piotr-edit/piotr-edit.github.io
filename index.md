@@ -1,7 +1,9 @@
 ---
 title: Piotr Wójcik, English Editor
 ---
+
 [<link rel="stylesheet" href="style.css">]: #
+
 [TODO: ADD TESTIMONIAL SECTION]: #
 
 # piotr.edit
@@ -52,6 +54,7 @@ I love helping people make their projects shine, so let’s work together to bri
 ## About Me
 
 My goal is to help writers refine their craft and create impactful, engaging content. Whether you’re a novelist, academic, or content creator, I’m here to help.
+
 Please click [here](cv.md) for my detailed cv.
 
 ---
@@ -59,7 +62,9 @@ Please click [here](cv.md) for my detailed cv.
 ## Contact
 
 Let’s bring your project to life.
+
 Reach out today to discuss your editing needs at piotr \[dot\] edit \{at\} gmail \[dot\] com.
+
 You can also find me on [LinkedIn](https://linkedin.com/in/pioioiotr)
 
 ---
