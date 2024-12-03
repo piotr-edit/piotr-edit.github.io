@@ -61,9 +61,9 @@ Please click [here](cv.md) for my detailed cv.
 
 Let’s bring your project to life.
 
-Reach out today to discuss your editing needs at piotr \[dot\] edit \{at\} gmail \[dot\] com.
+Reach out today to discuss your editing needs at piotr \[dot\] edit -at- gmail \[dot\] com.
 
-You can also find me on [LinkedIn](https://linkedin.com/in/pioioiotr)
+You can also find me on [LinkedIn](https://linkedin.com/in/pioioiotr).
 
 ---
 
