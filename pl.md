@@ -2,47 +2,50 @@
 title: Piotr Edit (PL)
 ---
 
-# Profesjonalne usługi redakcji i korekty w języku angielskim
+# Profesjonalna korekta anglojęzyczna
 
-Cześć! Nazywam się Piotr, jestem pasjonatem redakcji tekstów, a swoją pracę wykonuję z Krakowa, Polska.  
-Po ukończeniu jednych z najlepszych uczelni w USA, doskonaliłem swoje umiejętności dzięki wieloletniemu doświadczeniu zawodowemu w redakcji tekstów anglojęzycznych.  
-Moje doświadczenie obejmuje szeroką gamę treści, w tym tłumaczenia, artykuły naukowe, materiały biznesowe i marketingowe, rękopisy literackie, biografie, aplikacje na studia i wiele innych.  
-Uwielbiam pomagać ludziom w dopracowywaniu ich projektów, więc współpracujmy, aby nadać Twoim pomysłom klarowność, precyzję i styl.
+Cześć! Nazywam się Piotr, jestem korektorem tekstów angielskojęzycznych w Krakowie.  
+Po ukończeniu kilku prestiżowych uczelni w USA zdobyłem wieloletnie doświadczenie zawodowe w pracy nad różnorodnymi tekstami.
+Moje portfolio obejmuje tłumaczenia, artykuły naukowe, materiały biznesowe i marketingowe, rękopisy literackie, biografie, aplikacje na studia i wiele innych.
+Z pasją pomagam autorom udoskonalać projekty pisemne, dlatego zapraszam do współpracy, aby wspólnie nadać Twoim pomysłom klarowność, precyzję i niepowtarzalny styl.
 
 ---
 
 ## Usługi i cennik
 
 ### **Podstawowa korekta i redakcja tekstu**
-- Poprawa gramatyki, interpunkcji i pisowni
+- Poprawa gramatyki, interpunkcji i ortografii
 - Zapewnienie spójności i czytelności
 - Przygotowanie tekstu gotowego do publikacji
 
 | Długość tekstu              | Stawka za słowo* |
 |-----------------------------|------------------|
-| Krótki tekst (do 2,500 słów) | 0,015 EUR        |
-| Średni tekst (2,501–5,000 słów) | 0,012 EUR        |
-| Długi tekst (powyżej 5,000 słów) | 0,009 EUR        |
+| Krótki tekst (do 2,500 słów) | 0,06 PLN        |
+| Średni tekst (2,501–5,000 słów) | 0,05 PLN     |
+| Długi tekst (powyżej 5,000 słów) | 0,04 PLN    |
 | *Nieprzewidziane trudności (np. niestandardowy format)* | *+10%* |
-| *Usługa ekspresowa*         | *Indywidualna wycena* |
+| *Usługa ekspresowa*    | *Indywidualna wycena* |
 
-\*Proszę o kontakt w celu uzyskania spersonalizowanej wyceny, w tym stawek w USD lub PLN!
+\*Proszę o kontakt w celu uzyskania spersonalizowanej wyceny, w tym stawki w USD lub EUR!
+
+**Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 3 dni biznesowych dla podstawowej korekty językowej.**
 
 ### **Zaawansowana redakcja stylu i rozwoju treści**
 - Kompleksowe wskazówki dotyczące struktury, treści i płynności
-- Wsparcie w tłumaczeniach z języka polskiego na angielski
+- Wsparcie w tłumaczeniu z języka polskiego na angielski
 - Przygotowanie tekstu gotowego do publikacji
 
 | Długość tekstu              | Stawka za słowo* |
 |-----------------------------|------------------|
-| Krótki tekst (do 2,500 słów) | 0,024 EUR        |
-| Średni tekst (2,501–5,000 słów) | 0,021 EUR        |
-| Długi tekst (powyżej 5,000 słów) | 0,018 EUR        |
+| Krótki tekst (do 2,500 słów) | 0,10 PLN        |
+| Średni tekst (2,501–5,000 słów) | 0,09 PLN     |
+| Długi tekst (powyżej 5,000 słów) | 0,08 PLN    |
 | *Nieprzewidziane trudności (np. niestandardowy format)* | *+10%* |
 | *Usługa ekspresowa*         | *Indywidualna wycena* |
 
-\*Proszę o kontakt w celu uzyskania spersonalizowanej wyceny, w tym stawek w USD lub PLN!
+\*Proszę o kontakt w celu uzyskania spersonalizowanej wyceny, w tym stawki w USD lub EUR!
 
+**Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 5 dni biznesowych dla podstawowej korekty językowej.**
 ---
 
 ## O mnie
