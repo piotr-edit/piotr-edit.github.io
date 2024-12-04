@@ -30,7 +30,7 @@ I love helping people make their projects shine, so let’s work together to bri
 | Medium text (2,501–5,000 words)  | 0.012 EUR             |
 | Long text (over 5,000 words)     | 0.009 EUR             |
 | *Unforeseen issues (e.g., non-standard format)* | *+10%* |
-| *Express service*          | *Custom pricing* |
+| *Express service (24 h)*          | *Custom pricing* |
 
 \*Please contact me directly for a customized quote,  including rates in USD or PLN!
 
@@ -47,7 +47,7 @@ The specific turnaround time will depend on the length of the project, but most 
 | Medium text (2,501–5,000 words)  | 0.021 EUR             |
 | Long text (over 5,000 words)     | 0.018 EUR             |
 | *Unforeseen issues (e.g., non-standard format)* | *+10%* |
-| *Express service*          | *Custom pricing* |
+| *Express service (24 h)*          | *Custom pricing* |
 
 \*Please contact me directly for a customized quote,  including rates in USD or PLN!
 
