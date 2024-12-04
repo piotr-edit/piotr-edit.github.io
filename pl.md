@@ -30,7 +30,7 @@ Z pasją pomagam autorom udoskonalać swoje projekty, dlatego zapraszam do wspó
 
 \*Proszę o kontakt w celu uzyskania spersonalizowanej wyceny, w tym stawki w USD lub EUR!
 
-**Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 3 dni biznesowych dla podstawowej korekty językowej.**
+Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 3 dni biznesowych dla podstawowej korekty językowej.
 
 ### **Zaawansowana redakcja stylu i rozwoju treści**
 - Kompleksowe wskazówki dotyczące struktury, treści i płynności
@@ -47,7 +47,7 @@ Z pasją pomagam autorom udoskonalać swoje projekty, dlatego zapraszam do wspó
 
 \*Proszę o kontakt w celu uzyskania spersonalizowanej wyceny, w tym stawki w USD lub EUR!
 
-**Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 5 dni biznesowych dla podstawowej korekty językowej.**
+Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 5 dni biznesowych dla podstawowej korekty językowej.
 
 ---
 
