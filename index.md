@@ -34,6 +34,8 @@ I love helping people make their projects shine, so let’s work together to bri
 
 \*Please contact me directly for a customized quote,  including rates in USD or PLN!
 
+The specific turnaround time will depend on the length of the project, but most edited texts will be returned to you within 3 business days (without express service).
+
 ### **Advanced style and developmental editing**
 - Providing deeper guidance for structure, content, and flow
 - Supporting translation from Polish to English
@@ -48,6 +50,8 @@ I love helping people make their projects shine, so let’s work together to bri
 | *Express service*          | *Custom pricing* |
 
 \*Please contact me directly for a customized quote,  including rates in USD or PLN!
+
+The specific turnaround time will depend on the length of the project, but most edited texts will be returned to you within 5 business days (without express service).
 
 ---
 
