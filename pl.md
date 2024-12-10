@@ -52,7 +52,7 @@ Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie tr
 
 \*Proszę o kontakt w celu uzyskania spersonalizowanej wyceny, w tym stawki w USD lub EUR!
 
-Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 4 dni biznesowych dla podstawowej korekty językowej.
+Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie trwa do 4 dni biznesowych dla zaawansowanej korekty językowej.
 
 ---
 
