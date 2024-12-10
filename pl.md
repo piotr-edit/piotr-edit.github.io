@@ -4,12 +4,17 @@ title: Piotr Edit (PL)
 
 Looking for the English version? 🇬🇧🇺🇸 [Click here!](index.md)
 
-# Profesjonalna korekta anglojęzyczna
+# Profesjonalna redakcja i korekta z native speakerem języka angielskiego
 
-Cześć! Nazywam się Piotr i jestem korektorem tekstów angielskojęzycznych w Krakowie.  
-Po ukończeniu niejednej prestiżowej uczelni w USA zdobyłem wieloletnie doświadczenie zawodowe w pracy nad różnorodnymi tekstami.
-Moje portfolio obejmuje tłumaczenia, artykuły naukowe, materiały biznesowe i marketingowe, rękopisy literackie, biografie, aplikacje na studia i wiele innych.
-Z pasją pomagam autorom udoskonalać swoje projekty, dlatego zapraszam do współpracy, aby wspólnie nadać Twoim pomysłom klarowność, precyzję i niepowtarzalny styl.
+
+Cześć!
+
+Nazywam się Piotr i mieszkam w Krakowie. Moja zaleta? Jestem osobą dwujęzyczną! Pochodzę z Chicago i zajmuję się korektą i redakcją tekstów w języku angielskim. 
+Po ukończeniu Uniwersytetów Pennsylvania i Kentucky w Stanach Zjednoczonych zdobyłem wieloletnie doświadczenie w pracy z różnymi tekstami. Moje portfolio obejmuje tłumaczenia, artykuły naukowe, materiały biznesowe i marketingowe, rękopisy literackie, biografie, aplikacje na studia i wiele innych.
+
+Potrzebujesz wsparcia, aby twój tekst był doskonały? Zapraszam do współpracy! Wspólnie nadamy twojemu dziełu klarowność, precyzję i niepowtarzalny styl.
+
+Kliknij [tutaj](pl-cv.md), aby zobaczyć moje szczegółowe cv.
 
 ---
 
@@ -51,20 +56,8 @@ Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie tr
 
 ---
 
-## O mnie
-
-Moim celem jest pomoc w udoskonalaniu tekstów anglojęzycznych, które przyciągają uwagę i angażują. Niezależnie od tego, czy piszesz powieści, artykuły naukowe czy posty do social media - jestem tutaj, aby Ci pomóc.
-
-Kliknij [tutaj](pl-cv.md), aby zobaczyć moje szczegółowe cv.
-
----
-
-## Kontakt
+## Zaufaj profesjonaliście – skontaktuj się teraz!
 
 Zapraszam do maila: piotr \[dot\] edit -at- gmail \[dot\] com.  
 
 Możesz mnie także znaleźć na [LinkedIn](https://linkedin.com/in/pioioiotr).
-
----
-
-**Zaufaj profesjonaliście – skontaktuj się teraz!**
