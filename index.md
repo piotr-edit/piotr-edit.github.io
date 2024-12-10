@@ -54,7 +54,7 @@ The specific turnaround time will depend on the length of the project, but most 
 
 \*Please contact me directly for a customized quote, including rates in USD or PLN.
 
-The specific turnaround time will depend on the length of the project, but most edited texts will be returned to you within 5 business days (without express service).
+The specific turnaround time will depend on the length of the project, but most edited texts will be returned to you within 4 business days (without express service).
 
 ---
 
