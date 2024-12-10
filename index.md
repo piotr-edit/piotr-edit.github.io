@@ -10,10 +10,13 @@ Szukasz wersji w języku polskim? 🇵🇱 [Kliknij tutaj!](pl.md)
 
 # Professional English editing and proofreading services
 
-Hello! I'm Piotr, a passionate copy editor based in Krakow, Poland.
+Hello! I'm Piotr, a passionate copy editor and native English speaker based in Krakow, Poland.
 After graduating from some of the top schools in the US, I have honed my craft through years of professional experience in English-language editing.
 My expertise spans a wide array of content, including translated works, scientific articles, business and marketing materials, literary manuscripts, biographical narratives, college applications, and more.
-I love helping people make their projects shine, so let’s work together to bring your ideas to life with clarity, precision, and style.
+
+I love helping people make their projects shine, so let’s work together to bring your ideas to life with clarity, precision, and style!
+
+Please click [here](cv.md) for my detailed cv.
 
 ---
 
@@ -32,7 +35,7 @@ I love helping people make their projects shine, so let’s work together to bri
 | *Unforeseen issues (e.g., non-standard format)* | *+10%* |
 | *Express service (24 h)*          | *Custom pricing* |
 
-\*Please contact me directly for a customized quote,  including rates in USD or PLN!
+\*Please contact me directly for a customized quote, including rates in USD or PLN.
 
 The specific turnaround time will depend on the length of the project, but most edited texts will be returned to you within 3 business days (without express service).
 
@@ -49,26 +52,14 @@ The specific turnaround time will depend on the length of the project, but most 
 | *Unforeseen issues (e.g., non-standard format)* | *+10%* |
 | *Express service (24 h)*          | *Custom pricing* |
 
-\*Please contact me directly for a customized quote,  including rates in USD or PLN!
+\*Please contact me directly for a customized quote, including rates in USD or PLN.
 
 The specific turnaround time will depend on the length of the project, but most edited texts will be returned to you within 5 business days (without express service).
 
 ---
 
-## About me
+## Contact me today to bring your writing to life!
 
-My goal is to help writers refine their craft and create impactful, engaging content. Whether you’re a novelist, academic, or content creator, I’m here to help.
-
-Please click [here](cv.md) for my detailed cv.
-
----
-
-## Contact
-
-Reach out today to discuss your editing needs at piotr \[dot\] edit -at- gmail \[dot\] com.
+Please reach out via email to discuss your editing needs at piotr \[dot\] edit -at- gmail \[dot\] com.
 
 You can also find me on [LinkedIn](https://linkedin.com/in/pioioiotr).
-
----
-
-**Let’s bring your writing to life!**
