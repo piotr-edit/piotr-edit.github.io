@@ -58,6 +58,6 @@ Czas realizacji zależy od ilości słów i trudności tekstu, ale generalnie tr
 
 ## Zaufaj profesjonaliście – skontaktuj się teraz!
 
-Zapraszam do maila: piotr \[dot\] edit -at- gmail \[dot\] com.  
+Zapraszam do maila: piotr \[dot\] edit -małpa- gmail \[dot\] com.  
 
 Możesz mnie także znaleźć na [LinkedIn](https://linkedin.com/in/pioioiotr).
