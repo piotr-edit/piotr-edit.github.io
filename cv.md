@@ -30,7 +30,7 @@ Here is a bit more information about my background. In addition to copy editing,
 - Public Research Intern
   - Penn Program in Environmental Humanities (Philadelphia, PA, USA)
   - October 2019 - July 2020
-  - In this position, I interviewed, scripted, and produced Episodes 7-9 of Data Remediations podcast. I also ssisted with planning and operation support for various academic conferences.
+  - In this position, I interviewed, scripted, and produced Episodes 7-9 of Data Remediations podcast. I also assisted with planning and operation support for various academic conferences.
 - Intern
   - Heidelberg Project (Detroit, MI, USA)
   - June 2019 - August 2019
@@ -54,7 +54,7 @@ Here is a bit more information about my background. In addition to copy editing,
   - Documentation as Code
 - Cartography/GIS
   - QGIS
-  - PosgreSQL
+  - PostgreSQL
   - ArcMap
   - MapBox/Leaflet
 - Graphic design/modeling
